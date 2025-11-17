@@ -2,12 +2,14 @@
 """
 Admin Portal for AI Support Assistant Pro
 
+
 Functions:
 - Open/Close ticket status via UI or deep-links (?ticket_id=...&action=open|close|fill_gap)
 - Fill Knowledge Gap (kb_fill_text) with audit info
 - Optional Slack confirmations
 - Basic analytics using Seaborn/Matplotlib
 """
+
 
 import os, json, time
 from datetime import datetime
