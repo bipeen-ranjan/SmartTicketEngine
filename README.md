@@ -1,5 +1,5 @@
 
-# 🧠 AI Support Assistant Pro
+# 🧠 AI Powered Knowledge Engine for Smart support & Ticket Resolution
 > "Your AI teammate who never sleeps, never complains, and always answers tickets on time!"
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
