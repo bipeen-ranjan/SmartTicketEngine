@@ -82,7 +82,7 @@ By combining **LLMs**, **semantic search**, and **analytics**, this project turn
 ---
 
 ### 😊 Sentiment & Emotion Detection
-- Integrates **TextBlob** (when available) to compute sentiment polarity.
+- Integrates **TextBlob** (when available) to compute sentiment analysis polarity
 - Converts raw polarity into labels like:  
   - Positive  
   - Neutral  
