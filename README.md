@@ -638,10 +638,9 @@ This project aims to:
 
 ## 🎉 Final Words
 
-If you’ve read this far, you now know more about this system than most people know about their own internal tools.
+If you've made it to the end, you're curious enough to build something impactful. Every engineer starts with a question and ends with innovation—this project is one small step towards smarter support for everyone.
 
-Go build something awesome with it. And remember:
+Remember: Progress comes from learning, not perfection. Tinker, break things, and invent the future you want to see. 🚀
+> 
 
-> An AI that learns from its mistakes is better than a human who doesn’t. 🤖✨
-
-**Built with ❤️ by [Rudra Kadel](https://github.com/rudrakadel)** P.S. If this README made you smile even once, consider starring the repo. It’s free dopamine for developers. ⭐
+**Created and maintained by [Bipeen Raj & my team members](https://github.com/bipeen-ranjan) | If you found value here, starring the repo motivates more student innovations!
