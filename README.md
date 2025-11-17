@@ -629,8 +629,8 @@ This project aims to:
 
 ## 📞 Support & Contact
 
-  - **GitHub Issues:** https://github.com/rudrakadel/ticket-intake-ai/issues
-  - **Project Repo:** https://github.com/rudrakadel/ticket-intake-ai
+  - **GitHub Issues:** [https://github.com/bipeen-ranjan/SmartTicketEngine/issues]
+  - **Project Repo:** [https://github.com/bipeen-ranjan/SmartTicketEngine.git]
 
 (Replace contact email with your own if you want a public support channel.)
 
