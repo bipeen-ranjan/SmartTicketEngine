@@ -593,7 +593,8 @@ Pull requests welcome. Feature ideas welcome. Memes strongly encouraged. 😄
 MIT License — free to use, modify, break, fix, and rebuild.
 
 ```
-Copyright (c) 2025 Rudra Kadel
+Copyright (c) 2025 Bipeen Raj
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
