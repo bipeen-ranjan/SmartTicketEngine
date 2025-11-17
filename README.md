@@ -284,8 +284,9 @@ ticket-intake-ai/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone [https://github.com/rudrakadel/ticket-intake-ai.git](https://github.com/rudrakadel/ticket-intake-ai.git)
-cd ticket-intake-ai
+git clone https://github.com/bipeen-ranjan/SmartTicketEngine.git
+cd SmartTicketEngine
+
 ```
 
 ### Step 2: Install Dependencies
